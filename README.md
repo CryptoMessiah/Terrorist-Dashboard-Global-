@@ -12,7 +12,7 @@
     powerbi.initialize(document.getElementById('powerbi-dashboard'), {
       type: 'report',
       id: '58883440-25b7-4844-8eea-fcb862cade27',
-      embedUrl: 'https://app.powerbi.com/reportEmbed?reportId=58883440-25b7-4844-8eea-fcb862cade27&autoAuth=true&ctid=d8bf7c18-5725-4b9e-b118-13388f52e44e'
+      embedUrl: 'https://app.powerbi.com/reportEmbed?reportId=58883440-25b7-4844-8eea-fcb862cade27&autoAuth=false&ctid=d8bf7c18-5725-4b9e-b118-13388f52e44e'
     });
   </script>
 </body>
